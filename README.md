@@ -21,7 +21,7 @@ Powerfull Mini-ITX Hackintosh system
 
 ## Resources
 
-- https://hackintosh.gitbook.io
-- https://hackintosher.com/guides
+- https://dortania.github.io/OpenCore-Install-Guide
 - https://reddit.com/r/hackintosh
-- https://youtu.be/fA9AotXqkqA
+- https://www.tonymacx86.com
+
