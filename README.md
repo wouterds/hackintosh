@@ -2,7 +2,9 @@
 
 Powerfull Mini-ITX Hackintosh system
 
-![Hackintosh dual-boot Windows setup](https://repository-images.githubusercontent.com/220621250/1b625700-b01a-11eb-8f41-c0644b698174)
+![z170n-wifi mini-itx hackintosh](https://i.imgur.com/BNuF2Gc.jpg)
+
+![z170n-wifi mini-itx hackintosh](https://i.imgur.com/zo8E0bH.jpg)
 
 ## Hardware
 
